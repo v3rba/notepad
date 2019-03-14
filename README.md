@@ -1,3 +1,3 @@
 # notepad
-🗒
-> Notepad Ruby app
+## 🗒
+## Notepad Ruby app
